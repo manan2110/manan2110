@@ -9,4 +9,4 @@ I am a CSE Undergrad at Indian Institute of Information Technology Guwahati.
 - 📫 How to reach me: 
 - ⚡ Fun fact: I love to Listen Music 🎧 and Play Games 🏀🎮.
 ---
-[![Manan's GitHub stats](https://github-readme-stats.vercel.app/api?username=manan2110)](https://github.com/manan2110/github-readme-stats)
+![Manan's GitHub stats](https://github-readme-stats.vercel.app/api?username=manan2110&count_private=true)
