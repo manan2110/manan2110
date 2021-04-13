@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **React & Django**
 
-- 👯 I’m looking to collaborate on **Web-Developement Projects**
+- 💻 I’m looking to collaborate on **Web-Developement Projects**
 
 - 📫 How to reach me **manan.co.in@gmail.com**
 
