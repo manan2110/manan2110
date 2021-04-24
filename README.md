@@ -30,7 +30,9 @@
 ![Manan's GitHub stats](https://github-readme-stats.vercel.app/api?username=manan2110&count_private=true&show_icons=true)
 
 ---
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manan2110&" alt="manan2110" /></p>
+
 ---
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=manan2110&show_icons=true&locale=en&layout=compact" alt="manan2110" /></p>
