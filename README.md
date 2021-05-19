@@ -30,3 +30,6 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manan2110&" alt="manan2110" /></p>
+
+![](https://komarev.com/ghpvc/?username=manan2110&color=green)
+
