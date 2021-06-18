@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manan</h1>
 <h3 align="center">I am a Web-Developer.</h3>
 
-- 🔭 I’m currently working on **Rest & Django**
+- 🔭 I’m currently working on **React , Rest & Django**
 
 - 💻 I’m looking to collaborate on **Web-Developement Projects**
 
