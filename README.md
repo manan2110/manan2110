@@ -19,10 +19,10 @@
 <a href="https://codeforces.com/profile/manan2110" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="manan2110" height="30" width="40" /></a>
 </p>
 
-<p align = "center">
-![Manan's GitHub stats](https://github-readme-stats.vercel.app/api?username=manan2110&count_private=true&show_icons=true)
-</p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manan2110&" alt="manan2110" /></p>
+![Manan's GitHub stats](https://github-readme-stats.vercel.app/api?username=manan2110&count_private=true&show_icons=true)
+
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manan2110&" alt="manan2110" />
 
 
