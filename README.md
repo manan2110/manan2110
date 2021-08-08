@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Manan</h1>
-<h3 align="center">I am a Web-Developer.</h3>
 
 - 🔭 I’m currently working on **React , Rest & Django**
 
